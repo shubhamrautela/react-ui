@@ -1,0 +1,89 @@
+[
+  {
+    "id": 1,
+    "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg",
+    "name": "Bertie Yates",
+    "title": "Founder @The Millenials & CEO @ABC",
+    "price": "FREE",
+    "rating": 4.9,
+    "ratedBy": 120,
+    "qualities": ["02 Free Sessions Available", "Tampa, FL, USA", "Greek, English, French"],
+    "description": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem, quia voluptas sit, aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos, qui ratione voluptatem sequi nesciunt, neque porro quisquam est, qui dolorem ipsum, quia dolor sit amet, consectetur, adipisci[ng] velit, sed quia non numquam [do] eius modi tempora inci[di]dunt, ut labore et dolore magnam aliquam quaerat voluptatem.",
+    "tags": ["Marketing", "SEO", "Content Marketing", "Marketing Automation"]
+
+
+  },
+  {
+    "id": 2,
+    "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-3_rxtqvi.jpg",
+    "name": "Hester Hogan",
+    "title": "Founder @The Millenials & CEO @ABC",
+    "price": "FREE",
+    "rating": 4.9,
+    "ratedBy": 120,
+    "qualities": ["02 Free Sessions Available", "Tampa, FL, USA", "Greek, English, French"],
+    "description": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem, quia voluptas sit, aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos, qui ratione voluptatem sequi nesciunt, neque porro quisquam est, qui dolorem ipsum, quia dolor sit amet, consectetur, adipisci[ng] velit, sed quia non numquam [do] eius modi tempora inci[di]dunt, ut labore et dolore magnam aliquam quaerat voluptatem.",
+    "tags": ["Marketing", "SEO", "Content Marketing", "Marketing Automation"]
+
+
+  },
+  {
+    "id": 3,
+    "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg",
+    "name": "Larry Little",
+    "title": "Founder @The Millenials & CEO @ABC",
+    "price": "FREE",
+    "rating": 4.9,
+    "ratedBy": 120,
+    "qualities": ["02 Free Sessions Available", "Tampa, FL, USA", "Greek, English, French"],
+    "description": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem, quia voluptas sit, aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos, qui ratione voluptatem sequi nesciunt, neque porro quisquam est, qui dolorem ipsum, quia dolor sit amet, consectetur, adipisci[ng] velit, sed quia non numquam [do] eius modi tempora inci[di]dunt, ut labore et dolore magnam aliquam quaerat voluptatem.",
+    "tags": ["Marketing", "SEO", "Content Marketing", "Marketing Automation"]
+
+
+  },
+  {
+    "id": 4,
+    "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg",
+    "name": "Sean Walsh",
+    "title": "Founder @The Millenials & CEO @ABC",
+    "price": "FREE",
+    "rating": 4.9,
+    "ratedBy": 120,
+    "qualities": ["02 Free Sessions Available", "Tampa, FL, USA", "Greek, English, French"],
+    "description": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem, quia voluptas sit, aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos, qui ratione voluptatem sequi nesciunt, neque porro quisquam est, qui dolorem ipsum, quia dolor sit amet, consectetur, adipisci[ng] velit, sed quia non numquam [do] eius modi tempora inci[di]dunt, ut labore et dolore magnam aliquam quaerat voluptatem.",
+    "tags": ["Marketing", "SEO", "Content Marketing", "Marketing Automation"]
+
+
+  }, {
+    "id": 5,
+    "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg",
+    "name": "Lola Gardner",
+    "title": "Founder @The Millenials & CEO @ABC",
+    "price": "FREE",
+    "rating": 4.9,
+    "ratedBy": 120,
+    "qualities": ["02 Free Sessions Available", "Tampa, FL, USA", "Greek, English, French"],
+    "description": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem, quia voluptas sit, aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos, qui ratione voluptatem sequi nesciunt, neque porro quisquam est, qui dolorem ipsum, quia dolor sit amet, consectetur, adipisci[ng] velit, sed quia non numquam [do] eius modi tempora inci[di]dunt, ut labore et dolore magnam aliquam quaerat voluptatem.",
+    "tags": ["Marketing", "SEO", "Content Marketing", "Marketing Automation"]
+
+
+  }, {
+    "id": 6,
+    "image": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-2_ipcjws.jpg",
+    "name": "David Melvik",
+    "title": "Founder @The Millenials & CEO @ABC",
+    "price": "FREE",
+    "rating": 4.9,
+    "ratedBy": 120,
+    "qualities": ["02 Free Sessions Available", "Tampa, FL, USA", "Greek, English, French"],
+    "description": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem, quia voluptas sit, aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos, qui ratione voluptatem sequi nesciunt, neque porro quisquam est, qui dolorem ipsum, quia dolor sit amet, consectetur, adipisci[ng] velit, sed quia non numquam [do] eius modi tempora inci[di]dunt, ut labore et dolore magnam aliquam quaerat voluptatem.",
+    "tags": ["Marketing", "SEO", "Content Marketing", "Marketing Automation"]
+
+
+  }
+
+
+
+
+
+]
